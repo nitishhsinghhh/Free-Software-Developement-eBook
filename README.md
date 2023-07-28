@@ -1,6 +1,6 @@
-# Books
+# Free-Software-Developement-eBook
 
-Welcome to Books - your go-to resource for free software development eBooks!
+Welcome to Free-Software-Developement-eBook - your go-to resource for free software development eBooks!
 
 This GitHub repository is dedicated to sharing a carefully curated collection of eBooks for developers around the world. Our mission is to provide developers with the tools and knowledge they need to excel in their careers, without the burden of expensive textbooks and resources.
 
