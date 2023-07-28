@@ -9,3 +9,5 @@ With a wide range of topics covered, including programming languages, algorithms
 We are constantly updating our collection with new and relevant eBooks, so be sure to check back often for the latest additions. And if you have any suggestions for eBooks you would like to see added to our collection, please don't hesitate to reach out and let us know.
 
 Join the Books community today and start advancing your software development career with our free eBooks!
+
+Connect me on [LinkedIn](https://www.linkedin.com/in/nitishhsinghhh/)
