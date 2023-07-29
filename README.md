@@ -15,3 +15,4 @@ Connect me on [**LinkedIn**](https://www.linkedin.com/in/nitishhsinghhh/)
 | # | Title |  Comment |
 |---| ------------------------------------------------------------ | ------------------------------------------------------ |
 |1|[Design Patterns for dummies](https://github.com/nitishhsinghhh/Free-Software-Developement-eBook/blob/main/Design_Pattern/Design%20Patterns%20For%20Dummies.pdf) | This book provides a guide to using common design patterns, including the famous "Gang of Four" patterns, to simplify programming and reduce the amount of code needed for a task. |
+|2|[Mathematics & Physics for Programmers](https://github.com/nitishhsinghhh/Free-Software-Developement-eBook/blob/main/DSA/Mathematics%20and%20Physics%20for%20Programmers%20-%20Second%20Edition.pdf) | This book provides a non-language-specific introduction to mathematics and physics concepts needed for game development and other complex applications. |
