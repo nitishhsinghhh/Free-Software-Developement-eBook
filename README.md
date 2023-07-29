@@ -13,5 +13,5 @@ Join the Books community today and start advancing your software development car
 Connect me on [**LinkedIn**](https://www.linkedin.com/in/nitishhsinghhh/)
 
 | # | Title |  Comment |
-|---| ------------------------------------------------------------ | -------- | ------------------------------------------------------ |
+|---| ------------------------------------------------------------ | ------------------------------------------------------ |
 |1|[Design Patterns for dummies](https://github.com/nitishhsinghhh/Free-Software-Developement-eBook/blob/main/Design_Pattern/Design%20Patterns%20For%20Dummies.pdf) | This book provides a guide to using common design patterns, including the famous "Gang of Four" patterns, to simplify programming and reduce the amount of code needed for a task. |
