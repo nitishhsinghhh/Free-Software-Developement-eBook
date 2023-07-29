@@ -23,4 +23,29 @@ Connect me on [**LinkedIn**](https://www.linkedin.com/in/nitishhsinghhh/)
 |7|[The Data Compression Book - Second Edition](https://github.com/nitishhsinghhh/Free-Software-Developement-eBook/blob/main/DSA/The%20Data%20Compression%20Book%20-%20Second%20Edition.pdf) |This second edition of the Algorithm Design Manual serves as both a textbook and practical reference guide to designing and analyzing computer algorithms, with a focus on design over analysis, accessible instruction, and a catalog of algorithmic resources and implementations. |
 |8|[Python Algorithms - Mastering Basic Algorithms in the Python Language - Second Edition](https://github.com/nitishhsinghhh/Free-Software-Developement-eBook/blob/main/DSA/Python%20Algorithms%20-%20Mastering%20Basic%20Algorithms%20in%20the%20Python%20Language%20-%20Second%20Edition.pdf) |This book explains the Python approach to algorithm analysis and design, covering important and challenging areas of programming and computer science, and demonstrating how theory is reflected in real Python programs, including both well-known algorithms and data structures built into the Python language and how to implement and evaluate others. |
 |9| [Learning JavaScript Data Structures and Algorithms](https://github.com/nitishhsinghhh/Free-Software-Developement-eBook/blob/main/DSA/Learning%20JavaScript%20Data%20Structures%20and%20Algorithms%20-%20Second%20Edition.pdf) | This book teaches classic data structures and algorithms in JavaScript, covering arrays, stacks, queues, linked lists, hash tables, sets, trees, and graphs, with examples and real-world applications, suitable for students of computer science or those starting their technology careers. |
+|10|[Learning F# Functional Data Structures and Algorithms](https://github.com/nitishhsinghhh/Free-Software-Developement-eBook/blob/main/DSA/Learning%20F%23%20Functional%20Data%20Structures%20and%20Algorithms.pdf) | This book teaches how to design data structures and algorithms in F# for complex computing problems, with examples and easy-to-follow code samples, and provides a roadmap of the F# ecosystem. |
+|11| [Introduction to Algorithms - Third Edition.](https://github.com/nitishhsinghhh/Free-Software-Developement-eBook/blob/main/DSA/Introduction%20to%20Algorithms%20-%20Third%20Edition.pdf) | This book combines rigor and comprehensiveness in covering a broad range of algorithms, with explanations in English and pseudocode that are accessible to all levels of readers, and includes new chapters and revisions in the third edition. |
+|12|[Hacker's Delight - Second Edition](https://github.com/nitishhsinghhh/Free-Software-Developement-eBook/blob/main/DSA/Hacker's%20Delight%20-%20Second%20Edition.pdf) | Hacker's Delight is a collection of programming hacks, algorithms, and tricks compiled by Hank Warren that help programmers build more elegant and efficient software, providing practical and interesting solutions to improve their craft. |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
